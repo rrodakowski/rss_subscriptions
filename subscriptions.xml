@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Randall's RSS Subscriptions</title>
+  </head>
+  <body>
+    <outline text="marco.org" type="rss" xmlUrl="http://marco.org/rss"/>
+    <outline text="Daring Fireball" type="rss" xmlUrl="https://daringfireball.net/feeds/main"/>
+    <outline text="Tracy Chou" type="rss" xmlUrl="https://medium.com/feed/@triketora"/>
+    <outline text="cdixon.org - Chris Dixon's blog" type="rss" xmlUrl="https://medium.com/feed/@cdixon/"/>
+    <outline text="John Resig" type="rss" xmlUrl="http://feeds.feedburner.com/JohnResig"/>
+    <outline text="Matt Mullenweg" type="rss" xmlUrl="http://ma.tt/feed/"/>
+    <outline text="Jessie Frazelle's Blog" type="rss" xmlUrl="https://blog.jessfraz.com/index.xml"/>
+    <outline text="DailyNorseman" type="rss" xmlUrl="http://www.dailynorseman.com/rss/current"/>
+    <outline text="Speedwell of Hong Kong" type="rss" xmlUrl="http://speedwelladventures.com/blog/?feed=rss2"/>
+    <outline text="Voyaging with Annie Hill" type="rss" xmlUrl="http://anniehill.blogspot.com/feeds/posts/default"/>
+    <outline text="Sailing, Simplicity, and the Pursuit of Happiness" type="rss" xmlUrl="http://sailingsimplicity.com/feed"/>
+    <outline text="NOT ALL WHO WANDER........  ARE LOST" type="rss" xmlUrl="http://gafferhannah.blogspot.com/feeds/posts/default"/>
+    <outline text="Alastair Humphreys" type="rss" xmlUrl="http://feeds.feedburner.com/AlastairHumphreys"/>
+    <outline text="Tullycraft" type="rss" xmlUrl="http://tullycraftnation.com/feed"/>
+    <outline text="Virtual Vintage" type="rss" xmlUrl="https://newyork.craigslist.org/search/sss?format=rss&amp;query=%22virtualvintage%22&amp;sort=rel"/>
+  </body>
+</opml>
