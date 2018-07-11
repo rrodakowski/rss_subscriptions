@@ -4,6 +4,7 @@
     <title>Randall's RSS Subscriptions</title>
   </head>
   <body>
+    <outline text="Fred Wilson" type="rss" xmlUrl="https://avc.com/feed"/>
     <outline text="marco.org" type="rss" xmlUrl="http://marco.org/rss"/>
     <outline text="Tracy Chou" type="rss" xmlUrl="https://medium.com/feed/@triketora"/>
     <outline text="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml"/>
