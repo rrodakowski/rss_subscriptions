@@ -4,6 +4,7 @@
     <title>Randall's RSS Subscriptions</title>
   </head>
   <body>
+    <outline text="Fred Wilson" type="rss" xmlUrl="https://avc.com/feed"/>
     <outline text="marco.org" type="rss" xmlUrl="http://marco.org/rss"/>
     <outline text="Paul Graham" type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
     <outline text="Sam Altman" type="rss" xmlUrl="http://blog.samaltman.com/posts.atom"/>
