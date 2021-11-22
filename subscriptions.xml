@@ -11,7 +11,7 @@
     <outline text="Tracy Chou" type="rss" xmlUrl="https://medium.com/feed/@triketora"/>
     <outline text="Julia Evans" type="rss" xmlUrl="https://jvns.ca/atom.xml"/>
     <outline text="Lara Hogan" type="rss" xmlUrl="http://larahogan.me/feed.xml"/>
-    <outline text="cdixon.org - Chris Dixon's blog" type="rss" xmlUrl="https://medium.com/feed/@cdixon/"/>
+    <outline text="cdixon.org - Chris Dixon's blog" type="rss" xmlUrl="https://cdixon.org/rss.xml"/>
     <outline text="John Resig" type="rss" xmlUrl="http://feeds.feedburner.com/JohnResig"/>
     <outline text="Matt Mullenweg" type="rss" xmlUrl="http://ma.tt/feed/"/>
     <outline text="Jessie Frazelle's Blog" type="rss" xmlUrl="https://blog.jessfraz.com/index.xml"/>
