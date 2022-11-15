@@ -23,8 +23,8 @@
     <outline text="Sailing, Simplicity, and the Pursuit of Happiness" type="rss" xmlUrl="http://sailingsimplicity.com/feed"/>
     <outline text="NOT ALL WHO WANDER........  ARE LOST" type="rss" xmlUrl="http://gafferhannah.blogspot.com/feeds/posts/default"/>
     <outline text="Tullycraft" type="rss" xmlUrl="http://tullycraftnation.com/feed"/>
-    <outline text="Virtual Vintage" type="rss" xmlUrl="https://newyork.craigslist.org/search/sss?format=rss&amp;query=%22virtualvintage%22&amp;sort=rel"/>
+    <outline text="Martin Fowler" type="rss" xmlUrl="http://www.martinfowler.com/feed.atom"/>
     <outline text="Unchained: Big Ideas From The Worlds Of Blockchain And Cryptocurrency" type="rss" xmlUrl="http://unchained.libsyn.com/unchained"/>
-    <outline text="Jotul Wood Stove" type="rss" xmlUrl="https://newjersey.craigslist.org/search/sss?format=rss&amp;nearbyArea=249&amp;nearbyArea=250&amp;nearbyArea=3&amp;nearbyArea=349&amp;nearbyArea=356&amp;nearbyArea=561&amp;query=jotul%20602&amp;searchNearby=2&amp;sort=rel"/>
+    <outline text="LinkedIn Engineering" type="rss" xmlUrl="https://engineering.linkedin.com/blog.rss"/>
   </body>
 </opml>
